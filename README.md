@@ -9,5 +9,5 @@ Minimal file set required to run a basic Jekyll site.
 	|   |-- layout.html  
 	|   `-- post.html  
 	|-- _posts  
-	|   `-- 1985-10-26-Test-Post.md  
+	|   `-- 1970-01-01-Hello-world.md  
 	`-- index.html  
